@@ -1,0 +1,66 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch gcd_lcm",
+            "request": "launch",
+            "mainClass": "practiceQuestions.gcd_lcm",
+            "projectName": "Java_DSA_Fundamentals_90c53cbd"
+        },
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
+            "mainClass": "A_INTERVIEW_PREPARATION.test",
+            "projectName": "Java DSA"
+        },
+        {
+            "type": "java",
+            "name": "Launch anagramApp1",
+            "request": "launch",
+            "mainClass": "Strings.anagramApp1",
+            "projectName": "Java DSA"
+        },
+        {
+            "type": "java",
+            "name": "Launch practiceQ",
+            "request": "launch",
+            "mainClass": "practiceQ",
+            "projectName": "Java DSA"
+        },
+        {
+            "type": "java",
+            "name": "Launch removeDuplicate",
+            "request": "launch",
+            "mainClass": "ArrayList.removeDuplicate",
+            "projectName": "Java DSA"
+        },
+        {
+            "type": "java",
+            "name": "Launch frequency",
+            "request": "launch",
+            "mainClass": "frequency",
+            "projectName": "Java DSA"
+        },
+        {
+            "type": "java",
+            "name": "Launch sort",
+            "request": "launch",
+            "mainClass": "ArrayList.sort",
+            "projectName": "Java DSA"
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "Launch Program",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}\\..\\web fundamentals\\js_file\\objectArray.js"
+        }
+    ]
+}
